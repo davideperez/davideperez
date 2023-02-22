@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is David, and I'm an engineer student currently working with the following tools:
 
 
+![pm2](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
