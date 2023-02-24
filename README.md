@@ -7,6 +7,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![express](https://img.shields.io/badge/-express-black?style=flat-square&logo=express)
+![postman](https://img.shields.io/badge/-postman-black?style=flat-square&logo=postman)
 ![mongodb](https://img.shields.io/badge/-mongodb-black?style=flat-square&logo=mongodb)
 ![jest](https://img.shields.io/badge/-jest-black?style=flat-square&logo=jest)
 ![pm2](https://img.shields.io/badge/-pm2-black?style=flat-square&logo=pm2)
