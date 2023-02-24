@@ -11,6 +11,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![npm](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
+![nodemon](https://img.shields.io/badge/-nodemon-black?style=flat-square&logo=nodemon)
+![json](https://img.shields.io/badge/-json-black?style=flat-square&logo=json)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
