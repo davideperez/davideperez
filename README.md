@@ -25,7 +25,7 @@
 ![trello](https://img.shields.io/badge/-trello-black?style=flat-square&logo=trello)
 
 
-I also have professional experience with the following multimedia tools 🖍️:
+### I also have professional experience with the following multimedia tools 🖍️:
 
 ![adobeaftereffects](https://img.shields.io/badge/-adobeaftereffects-black?style=flat-square&logo=adobeaftereffects)
 ![cinema4d](https://img.shields.io/badge/-cinema4d-black?style=flat-square&logo=cinema4d)
