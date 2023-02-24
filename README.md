@@ -25,6 +25,8 @@
 ![diagramsdotnet](https://img.shields.io/badge/-diagramsdotnet-black?style=flat-square&logo=diagramsdotnet)
 ![notion](https://img.shields.io/badge/-notion-black?style=flat-square&logo=notion)
 ![trello](https://img.shields.io/badge/-trello-black?style=flat-square&logo=trello)
+![basecamp](https://img.shields.io/badge/-basecamp-black?style=flat-square&logo=basecamp)
+
 
 
 ### I also have professional experience with the following multimedia tools 🖍️:
