@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is David, and I'm an engineer student currently working with the following dev tools:
 
 
-![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript?logoColor=violet)
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
