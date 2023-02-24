@@ -1,21 +1,47 @@
-### Hi there 👋, my name is David, and I'm an engineer student currently working with the following tools:
+### Hi there 👋, my name is David, and I'm an engineer student currently working with the following dev tools:
 
 
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![mongodb](https://img.shields.io/badge/-mongodb-black?style=flat-square&logo=mongodb)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![express](https://img.shields.io/badge/-express-black?style=flat-square&logo=express)
 ![pm2](https://img.shields.io/badge/-pm2-black?style=flat-square&logo=pm2)
+![mongodb](https://img.shields.io/badge/-mongodb-black?style=flat-square&logo=mongodb)
+![json](https://img.shields.io/badge/-json-black?style=flat-square&logo=json)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Visual Studio Code](https://img.shields.io/badge/-visualstudiocode-black?style=flat-square&logo=visualstudiocode)
+![The Algorithms](https://img.shields.io/badge/-thealgorithms-black?style=flat-square&logo=thealgorithms)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![npm](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
 ![nodemon](https://img.shields.io/badge/-nodemon-black?style=flat-square&logo=nodemon)
-![json](https://img.shields.io/badge/-json-black?style=flat-square&logo=json)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![notion](https://img.shields.io/badge/-notion-black?style=flat-square&logo=notion)
+![trello](https://img.shields.io/badge/-trello-black?style=flat-square&logo=trello)
+
+
+I also have professional experience with the following multimedia tools 🖍️:
+
+![adobeaftereffects](https://img.shields.io/badge/-adobeaftereffects-black?style=flat-square&logo=adobeaftereffects)
+![cinema4d](https://img.shields.io/badge/-cinema4d-black?style=flat-square&logo=cinema4d)
+![adobepremierepro](https://img.shields.io/badge/-adobepremierepro-black?style=flat-square&logo=adobepremierepro)
+![adobeillustrator](https://img.shields.io/badge/-adobeillustrator-black?style=flat-square&logo=adobeillustrator)
+![adobelightroom](https://img.shields.io/badge/-adobelightroom-black?style=flat-square&logo=adobelightroom)
+![adobeaudition](https://img.shields.io/badge/-adobeaudition-black?style=flat-square&logo=adobeaudition)
+![adobephotoshop](https://img.shields.io/badge/-adobephotoshop-black?style=flat-square&logo=adobephotoshop)
+![steinberg](https://img.shields.io/badge/-steinberg-black?style=flat-square&logo=steinberg)
+![abletonlive](https://img.shields.io/badge/-abletonlive-black?style=flat-square&logo=abletonlive)
+
+
+
+
+
+
+
 
 <!--
 **davideperez/davideperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
