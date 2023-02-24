@@ -22,6 +22,7 @@
 ![nodemon](https://img.shields.io/badge/-nodemon-black?style=flat-square&logo=nodemon)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![diagramsdotnet](https://img.shields.io/badge/-diagramsdotnet-black?style=flat-square&logo=diagramsdotnet)
 ![notion](https://img.shields.io/badge/-notion-black?style=flat-square&logo=notion)
 ![trello](https://img.shields.io/badge/-trello-black?style=flat-square&logo=trello)
 
