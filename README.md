@@ -9,6 +9,7 @@
 ![express](https://img.shields.io/badge/-express-black?style=flat-square&logo=express)
 ![postman](https://img.shields.io/badge/-postman-black?style=flat-square&logo=postman)
 ![mongodb](https://img.shields.io/badge/-mongodb-black?style=flat-square&logo=mongodb)
+![axios](https://img.shields.io/badge/-axios-black?style=flat-square&logo=axios)
 ![jest](https://img.shields.io/badge/-jest-black?style=flat-square&logo=jest)
 ![pm2](https://img.shields.io/badge/-pm2-black?style=flat-square&logo=pm2)
 ![json](https://img.shields.io/badge/-json-black?style=flat-square&logo=json)
