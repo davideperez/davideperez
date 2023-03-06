@@ -1,4 +1,6 @@
-### Hi there 👋, my name is David, and I'm an engineer student 👨🏽‍💻 currently working with the following dev tools:
+# Hi there 👋, 
+
+#### My name is David, and I'm an engineer student 👨🏽‍💻 currently working with the following tools:
 
 ## 🏪 front-end
 
@@ -24,8 +26,10 @@
 ![pm2](https://img.shields.io/badge/-pm2-black?style=flat-square&logo=pm2)
 ![json](https://img.shields.io/badge/-json-black?style=flat-square&logo=json)
 ![nodemon](https://img.shields.io/badge/-nodemon-black?style=flat-square&logo=nodemon)
+![jsonwebtokens](https://img.shields.io/badge/-jsonwebtokens-black?style=flat-square&logo=jsonwebtokens)
 
-## 📐 management/dev tools
+
+### 📐 management/dev tools
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![npm](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
@@ -38,7 +42,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-visualstudiocode-black?style=flat-square&logo=visualstudiocode)
 ![The Algorithms](https://img.shields.io/badge/-thealgorithms-black?style=flat-square&logo=thealgorithms)
 
-### I also have professional experience with the following multimedia tools 🖍️:
+#### 🖍️ multimedia tools
 
 ![adobeaftereffects](https://img.shields.io/badge/-adobeaftereffects-black?style=flat-square&logo=adobeaftereffects)
 ![cinema4d](https://img.shields.io/badge/-cinema4d-black?style=flat-square&logo=cinema4d)
