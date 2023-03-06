@@ -18,6 +18,8 @@
 ![postman](https://img.shields.io/badge/-postman-black?style=flat-square&logo=postman)
 ![mongodb](https://img.shields.io/badge/-mongodb-black?style=flat-square&logo=mongodb)
 ![axios](https://img.shields.io/badge/-axios-black?style=flat-square&logo=axios)
+![dotenv](https://img.shields.io/badge/-dotenv-black?style=flat-square&logo=dotenv)
+![openssl](https://img.shields.io/badge/-openssl-black?style=flat-square&logo=openssl)
 ![jest](https://img.shields.io/badge/-jest-black?style=flat-square&logo=jest)
 ![pm2](https://img.shields.io/badge/-pm2-black?style=flat-square&logo=pm2)
 ![json](https://img.shields.io/badge/-json-black?style=flat-square&logo=json)
