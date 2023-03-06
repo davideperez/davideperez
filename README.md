@@ -2,6 +2,8 @@
 
 #### My name is David, and I'm an engineer student 👨🏽‍💻 currently working with the following tools:
 
+<br/>
+
 ## 🏪 front-end
 
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript)
@@ -11,6 +13,8 @@
 ![sass](https://img.shields.io/badge/-sass-black?style=flat-square&logo=sass)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap&logoColor=563D7C)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+
+<br/>
 
 ## 🏭 back-end
 
@@ -27,9 +31,11 @@
 ![json](https://img.shields.io/badge/-json-black?style=flat-square&logo=json)
 ![nodemon](https://img.shields.io/badge/-nodemon-black?style=flat-square&logo=nodemon)
 ![jsonwebtokens](https://img.shields.io/badge/-jsonwebtokens-black?style=flat-square&logo=jsonwebtokens)
+![passport](https://img.shields.io/badge/-passport-black?style=flat-square&logo=passport)
 
+<br/>
 
-### 📐 management/dev tools
+## 📐 management/dev tools
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![npm](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
@@ -42,7 +48,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-visualstudiocode-black?style=flat-square&logo=visualstudiocode)
 ![The Algorithms](https://img.shields.io/badge/-thealgorithms-black?style=flat-square&logo=thealgorithms)
 
-#### 🖍️ multimedia tools
+<br/>
+
+## 🖍️ multimedia tools
 
 ![adobeaftereffects](https://img.shields.io/badge/-adobeaftereffects-black?style=flat-square&logo=adobeaftereffects)
 ![cinema4d](https://img.shields.io/badge/-cinema4d-black?style=flat-square&logo=cinema4d)
