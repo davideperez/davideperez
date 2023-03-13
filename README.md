@@ -27,6 +27,7 @@
 ![dotenv](https://img.shields.io/badge/-dotenv-black?style=flat-square&logo=dotenv)
 ![openssl](https://img.shields.io/badge/-openssl-black?style=flat-square&logo=openssl)
 ![jest](https://img.shields.io/badge/-jest-black?style=flat-square&logo=jest)
+![githubactions](https://img.shields.io/badge/-githubactions-black?style=flat-square&logo=githubactions)
 ![pm2](https://img.shields.io/badge/-pm2-black?style=flat-square&logo=pm2)
 ![json](https://img.shields.io/badge/-json-black?style=flat-square&logo=json)
 ![nodemon](https://img.shields.io/badge/-nodemon-black?style=flat-square&logo=nodemon)
