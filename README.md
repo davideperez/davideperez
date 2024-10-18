@@ -1,4 +1,10 @@
-## Hi there 👋
+### Hi, 
+
+I'm a fullstack developer currently studying Systems Engineering.
+### I work with the following technologies
+JavaScript  ● Python ● Typescript ● React ● Next ● Tailwind ● CSS3 ● HTML5
+Linux ● Node ● Express ● MongoDB ● Postgres ● Prisma ● GraphQL ● Passport ● Docker ● Nginx ● Vitest ● Playwright ● Github Actions ● Git
+
 
 <!--
 **davideperez/davideperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
